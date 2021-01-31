@@ -1,0 +1,20 @@
+{
+  "name": "deversifi-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "mocha": "^8.2.1",
+    "node-fetch": "^2.6.1",
+    "uuid": "^8.3.2",
+    "ws": "^7.4.2"
+  }
+}
